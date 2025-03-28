@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 101,
+      "name": "Debesh",
+      "email": "anshubehera112@gmail.com",
+      "password": "Debesh1234"
+    }
+  ],
+  "homes": [
+    {
+      "id": 101,
+      "username": "Debesh",
+      "email": "anshubehera112@gmail.com",
+      "contact": "9692880714",
+      "resume": "IMG_1263.jpeg"
+    }
+  ]
+}
