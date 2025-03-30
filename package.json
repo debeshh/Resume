@@ -1,0 +1,12 @@
+{
+  "name": "cvanalyzer-api",
+  "version": "1.0.0",
+  "description": "JSON Server for CV Analyzer",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
